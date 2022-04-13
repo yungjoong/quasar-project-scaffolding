@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@admob-plus/capacitor@^1.23.0":
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/@admob-plus/capacitor/-/capacitor-1.23.0.tgz#7d7858e92e0f01c8bbc1cb655ffb7e2f88fd0644"
+  integrity sha512-zOPpqEQhjUi93CxDhJeWlco3AQ+O4u2gE7kCVPwZ5KcGn8cZsndULOtJcaEbw7Xkp59Jm1VSzX6hJ5zvYBww4Q==
+
 "@ampproject/remapping@^2.1.0":
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/@ampproject/remapping/-/remapping-2.1.2.tgz#4edca94973ded9630d20101cd8559cedb8d8bd34"
