@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@admob-plus/capacitor": "^1.23.0",
+    "@capacitor/storage": "^1.2.5",
     "@quasar/extras": "^1.0.0",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
